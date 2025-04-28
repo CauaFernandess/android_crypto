@@ -1,4 +1,4 @@
-package carreiras.com.github.cryptomonitor.ui.theme
+package cauafernandess.com.github.cryptomonitor.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package carreiras.com.github.cryptomonitor
+package cauafernandess.com.github.cryptomonitor
 
 import org.junit.Test
 
