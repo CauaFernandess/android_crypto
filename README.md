@@ -1,7 +1,7 @@
 # Android crypto monitor
 
-(https://postimg.cc/DSfLdXN9)
-(https://postimg.cc/hfdWK21r)
+!(https://postimg.cc/DSfLdXN9)
+!(https://postimg.cc/hfdWK21r)
 
 Model 
 O Model é um arquivo Kotlin onde definimos as classes que representam os dados recebidos da API. Quando a resposta da API chega em formato JSON, o Retrofit (biblioteca adicionada no build.gradle) é responsável por converter essa resposta diretamente em objetos Kotlin, evitando o trabalho manual de tratar o JSON.
