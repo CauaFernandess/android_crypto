@@ -1,7 +1,7 @@
 # Android crypto monitor
 
-(https://postimg.cc/DSfLdXN9.png)
-(https://postimg.cc/hfdWK21r.png)
+(https://i.postimg.cc/BnHp35Bn/print-1.png)
+(https://i.postimg.cc/wTW6cPtS/print-2.png)
 
 Model 
 O Model é um arquivo Kotlin onde definimos as classes que representam os dados recebidos da API. Quando a resposta da API chega em formato JSON, o Retrofit (biblioteca adicionada no build.gradle) é responsável por converter essa resposta diretamente em objetos Kotlin, evitando o trabalho manual de tratar o JSON.
@@ -18,8 +18,8 @@ Já o arquivo Service/MercadoBitcoinServiceFactory.kt é responsável por montar
 Ui.theme
 Esta pasta é responsável por armazenar todos os recursos visuais e de configuração utilizados no aplicativo, incluindo layouts de tela, textos, cores e imagens. Dentro dela encontramos:
 
-layout/ -> contém os arquivos de layout no formato .xml
-values/ -> armazena valores reaproveitáveis, como cores, textos e temas
-drawable/ -> utilizado para guardar imagens e formas (shapes)
+layout - contém os arquivos de layout no formato .xml
+values - armazena valores reaproveitáveis, como cores, textos e temas
+drawable - utilizado para guardar imagens e formas (shapes)
 
 
